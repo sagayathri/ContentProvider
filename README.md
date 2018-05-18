@@ -1,2 +1,2 @@
 # ContentProvider
-Custom Content Resolver Demo App
+Custom Content Provider Demo App
